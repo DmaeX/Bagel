@@ -86,7 +86,7 @@ def get_friendly_loss_message():
     messages = [
         'D for do not even come home 😭',
         'Is your brain there? 🤣',
-        'Siily you, go play again but with 1 digit 😤',
+        'Silly you, go play again but with 1 digit 😤',
         'Go play chess 🤓',
         'THATS UNFORTUNATE 😤'
     ]
